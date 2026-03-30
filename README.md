@@ -242,11 +242,6 @@ See `BOT_CONFIG.md` for:
 - Bot avatar recommendations
 - User onboarding tips
 
-**Suggested Commands:**
-1. `探测 $PEPE 的暴富基因` (Classic meme analysis)
-2. `看看 $BTC 的 Meme 属性` (Major coin detection)
-3. `随便测个乱码：qwertyuiop` (Edge case demonstration)
-
 ---
 
 ## 📝 Documentation
@@ -271,21 +266,6 @@ MIT License
 
 ---
 
-## 🙏 Acknowledgments
-
-Built with:
-- [Coze Coding](https://coze.com) - AI-powered development platform
-- [LangGraph](https://github.com/langchain-ai/langgraph) - Workflow orchestration
-- [doubao-seed](https://www.volcengine.com/) - Vision-language model
-
----
-
-<div align="center">
-
-**Made with 💎 by Coze Coding AI**
-
-[Try it now](https://coze.com) • [Report Bug](https://github.com) • [Request Feature](https://github.com)
-
+## Maintainer: Antalpha AI Team
 **From keyboard smashes to moonshots - we analyze them all! 🚀**
 
-</div>
