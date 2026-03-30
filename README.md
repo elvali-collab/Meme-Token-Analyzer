@@ -1,13 +1,8 @@
-# Meme Token Analyzer 🚀
+# Meme Token Analyzer 🚀💎
 
 > **The Ultimate Meme Token "Wealth Gene" Detection System**
 
 A powerful LangGraph workflow that analyzes Meme tokens with humor and expertise, generating comprehensive wealth gene detection reports using real-time web sentiment, AI-generated prediction images, and multimodal AI analysis.
-
-[![Coze Coding](https://img.shields.io/badge/Powered%20by-Coze%20Coding-blue)](https://coze.com)
-[![LangGraph](https://img.shields.io/badge/Framework-LangGraph-green)](https://github.com/langchain-ai/langgraph)
-[![Python](https://img.shields.io/badge/Language-Python-yellow)](https://python.org)
-
 ---
 
 ## 🎯 What Makes This Special?
